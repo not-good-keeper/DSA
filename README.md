@@ -1,4 +1,4 @@
 # DSA
 
 
-store prepositoty for dsa practice
+store repositoty for dsa practice
